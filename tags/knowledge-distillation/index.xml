@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Distillation | Noam Razin</title>
+    <link>/tags/knowledge-distillation/</link>
+      <atom:link href="/tags/knowledge-distillation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knowledge Distillation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Knowledge Distillation</title>
+      <link>/tags/knowledge-distillation/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Attentive Sentence-Pair Modeling via Distilled Sentence Embedding</title>
+      <link>/publication/dse/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

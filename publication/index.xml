@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Noam Razin</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Implicit Regularization in Deep Learning May Not Be Explainable by Norms</title>
+      <link>/publication/reg_dl_not_norms/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reg_dl_not_norms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Attentive Sentence-Pair Modeling via Distilled Sentence Embedding</title>
+      <link>/publication/dse/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
