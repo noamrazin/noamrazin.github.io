@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Implicit Regularization in Deep Learning May Not Be Explainable by Norms</title>
+      <link>/publication/reg_dl_not_norms/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reg_dl_not_norms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RecoBERT: A Catalog Language Model for Text-Based Recommendations</title>
+      <link>/publication/recobert/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/recobert/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalable Attentive Sentence-Pair Modeling via Distilled Sentence Embedding</title>
