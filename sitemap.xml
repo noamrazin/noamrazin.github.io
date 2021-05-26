@@ -83,6 +83,11 @@
   </url>
   
   <url>
+    <loc>/tags/self-supervised-learning/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/knowledge-distillation/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
