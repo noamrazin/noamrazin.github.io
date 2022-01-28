@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hierarchical Tensor Factorization | Noam Razin</title>
+    <link>/tags/hierarchical-tensor-factorization/</link>
+      <atom:link href="/tags/hierarchical-tensor-factorization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hierarchical Tensor Factorization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hierarchical Tensor Factorization</title>
+      <link>/tags/hierarchical-tensor-factorization/</link>
+    </image>
+    
+    <item>
+      <title>Implicit Regularization in Hierarchical Tensor Factorization and Deep Convolutional Neural Networks</title>
+      <link>/publication/imp_reg_htf/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/imp_reg_htf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
