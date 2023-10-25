@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systematic Generalization | Noam Razin</title>
+    <link>/tags/systematic-generalization/</link>
+      <atom:link href="/tags/systematic-generalization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Systematic Generalization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Systematic Generalization</title>
+      <link>/tags/systematic-generalization/</link>
+    </image>
+    
+    <item>
+      <title>What Algorithms Can Transformers Learn? A Study in Length Generalization</title>
+      <link>/publication/length_gen/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/length_gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
