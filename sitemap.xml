@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/tags/policy-gradient/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url>
@@ -29,11 +34,6 @@
   
   <url>
     <loc>/tags/reinforcement-finetuning/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/supervised-finetuning/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url>
   
