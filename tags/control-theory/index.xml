@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Policy Gradient | Noam Razin</title>
-    <link>/tags/policy-gradient/</link>
-      <atom:link href="/tags/policy-gradient/index.xml" rel="self" type="application/rss+xml" />
-    <description>Policy Gradient</description>
+    <title>Control Theory | Noam Razin</title>
+    <link>/tags/control-theory/</link>
+      <atom:link href="/tags/control-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Control Theory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Policy Gradient</title>
-      <link>/tags/policy-gradient/</link>
+      <title>Control Theory</title>
+      <link>/tags/control-theory/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/imp_bias_lqr/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/publication/imp_bias_lqr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vanishing Gradients in Reinforcement Finetuning of Language Models</title>
-      <link>/publication/vanish_grad_rft/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/vanish_grad_rft/</guid>
       <description></description>
     </item>
     
