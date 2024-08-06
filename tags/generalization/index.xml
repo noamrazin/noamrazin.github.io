@@ -5,12 +5,20 @@
     <link>/tags/generalization/</link>
       <atom:link href="/tags/generalization/index.xml" rel="self" type="application/rss+xml" />
     <description>Generalization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Generalization</title>
       <link>/tags/generalization/</link>
     </image>
+    
+    <item>
+      <title>Understanding Deep Learning via Notions of Rank</title>
+      <link>/publication/understanding_dl_via_rank/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/understanding_dl_via_rank/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Implicit Regularization in Hierarchical Tensor Factorization and Deep Convolutional Neural Networks</title>

@@ -3,6 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning-theory/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/expressiveness/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/generalization/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/implicit-regularization/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matrix-factorization/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rank/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tensor-factorization/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tensor-factorizations/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/understanding_dl_via_rank/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url>
@@ -33,32 +108,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/out-of-distribution-generalization/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/policy-gradient/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +159,6 @@
   
   <url>
     <loc>/tags/data/</loc>
-    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,17 +213,7 @@
   </url>
   
   <url>
-    <loc>/tags/generalization/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/hierarchical-tensor-factorization/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/implicit-regularization/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,17 +233,7 @@
   </url>
   
   <url>
-    <loc>/tags/tensor-factorization/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/reg_dl_not_norms/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/matrix-factorization/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
