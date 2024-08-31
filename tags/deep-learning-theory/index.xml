@@ -20,5 +20,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Lecture Notes on Linear Neural Networks: A Tale of Optimization and Generalization in Deep Learning</title>
+      <link>/publication/lnn_lecture_notes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/lnn_lecture_notes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

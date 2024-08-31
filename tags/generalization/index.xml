@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Lecture Notes on Linear Neural Networks: A Tale of Optimization and Generalization in Deep Learning</title>
+      <link>/publication/lnn_lecture_notes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/lnn_lecture_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Implicit Regularization in Hierarchical Tensor Factorization and Deep Convolutional Neural Networks</title>
       <link>/publication/imp_reg_htf/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
