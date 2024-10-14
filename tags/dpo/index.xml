@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DPO | Noam Razin</title>
+    <link>/tags/dpo/</link>
+      <atom:link href="/tags/dpo/index.xml" rel="self" type="application/rss+xml" />
+    <description>DPO</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>DPO</title>
+      <link>/tags/dpo/</link>
+    </image>
+    
+    <item>
+      <title>Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization</title>
+      <link>/publication/likelihood_displacement/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/likelihood_displacement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
