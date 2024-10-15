@@ -5,12 +5,20 @@
     <link>/tags/generalization/</link>
       <atom:link href="/tags/generalization/index.xml" rel="self" type="application/rss+xml" />
     <description>Generalization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Generalization</title>
       <link>/tags/generalization/</link>
     </image>
+    
+    <item>
+      <title>The Implicit Bias of Structured State Space Models Can Be Poisoned With Clean Labels</title>
+      <link>/publication/imp_bias_ssm/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/imp_bias_ssm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding Deep Learning via Notions of Rank</title>

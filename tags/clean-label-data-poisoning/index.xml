@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Noam Razin</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Clean-Label Data Poisoning | Noam Razin</title>
+    <link>/tags/clean-label-data-poisoning/</link>
+      <atom:link href="/tags/clean-label-data-poisoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clean-Label Data Poisoning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>3</title>
-      <link>/publication_types/3/</link>
+      <title>Clean-Label Data Poisoning</title>
+      <link>/tags/clean-label-data-poisoning/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/imp_bias_ssm/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/publication/imp_bias_ssm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization</title>
-      <link>/publication/likelihood_displacement/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/likelihood_displacement/</guid>
       <description></description>
     </item>
     
