@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>The Implicit Bias of Structured State Space Models Can Be Poisoned With Clean Labels</title>
-      <link>/publication/imp_bias_ssm/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/imp_bias_ssm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization</title>
       <link>/publication/likelihood_displacement/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/publication/likelihood_displacement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Implicit Bias of Structured State Space Models Can Be Poisoned With Clean Labels</title>
+      <link>/publication/imp_bias_ssm/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/imp_bias_ssm/</guid>
       <description></description>
     </item>
     
