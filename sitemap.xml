@@ -3,12 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/alignment/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/language-models/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/policy-gradient/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reinforcement-learning/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reinforcement-learning-from-human-feedback/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reward-models/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/what_makes_good_rm/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,43 +78,13 @@
   </url>
   
   <url>
-    <loc>/tags/language-models/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/likelihood-displacement/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/likelihood_displacement/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +184,6 @@
   
   <url>
     <loc>/tags/out-of-distribution-generalization/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/policy-gradient/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url>
   

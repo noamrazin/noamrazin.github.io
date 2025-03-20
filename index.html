@@ -275,7 +275,7 @@
   <meta property="og:description" content="Postdoctoral Fellow"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-10-11T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2025-03-19T00:00:00&#43;00:00">
   
 
   
@@ -718,13 +718,16 @@
 <p>I am a Postdoctoral Fellow at 
 <a href="https://pli.princeton.edu/" target="_blank" rel="noopener">Princeton Language and Intelligence</a>.
 My research focuses on the foundations of modern machine learning.
-Through a combination of mathematical and empirical analyses, I aim to develop theories that shed light on how neural networks operate, as well as bring forth principled methods for improving their
+I aim to develop theories that shed light on how neural networks operate, as well as bring forth principled methods for improving their
 efficiency, reliability, and performance.
-Most recently, I have been working on language model post-training: identifying difficulties that can arise during 
-<a href="https://arxiv.org/abs/2310.20703" target="_blank" rel="noopener">reinforcement
-learning</a> and 
-<a href="https://arxiv.org/abs/2410.08847" target="_blank" rel="noopener">direct preference learning</a> approaches, and exploring ways to
-overcome these difficulties.</p>
+Most recently, I have been working on language model post-training.</p>
+<ul>
+<li>In 
+<a href="https://arxiv.org/abs/2310.20703" target="_blank" rel="noopener">[1]</a>, we identify a vanishing gradients problem that arises during reinforcement learning approaches. Building on this optimization perspective, 
+<a href="https://arxiv.org/abs/2503.15477" target="_blank" rel="noopener">[2]</a> investigates what makes a good reward model.</li>
+<li>In 
+<a href="https://arxiv.org/abs/2410.08847" target="_blank" rel="noopener">[3]</a>, we characterize the causes for <em>likelihood displacement</em> &mdash; the counter-intuitive phenomenon where preference optimization decreases the probability of preferred responses instead of increasing it as intended. We show that likelihood displacement can lead to surprising failures in alignment and provide preventative guidelines</li>
+</ul>
 <p>My work is supported in part by a 
 <a href="https://zuckermanstem.org/" target="_blank" rel="noopener">Zuckerman Postdoctoral Scholarship</a>.
 Previously, I obtained my PhD in Computer Science at 
@@ -798,9 +801,13 @@ the
       
       <ul>
 <li>
+<p><strong>Mar 25</strong>: New 
+<a href="https://arxiv.org/abs/2503.15477" target="_blank" rel="noopener">paper</a> provides an optimization perspective on what makes a good reward model for RLHF. In particular, we establish that more accurate reward models are not necessarily better teachers!</p>
+</li>
+<li>
 <p><strong>Jan 25</strong>: 
 <a href="https://arxiv.org/abs/2410.08847" target="_blank" rel="noopener">Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization</a> accepted to 
-<a href="https://iclr.cc/" target="_blank" rel="noopener">ICLR 2025</a>. When aligning language models via Direct Preference Optimization (DPO), past work observed that the probability of preferred responses often <em>decreases</em> instead of increasing as intended. We characterize the causes for this counterintuitive phenomenon, show that it can lead to surprising failures in alignment, and provide preventative guidelines</p>
+<a href="https://iclr.cc/" target="_blank" rel="noopener">ICLR 2025</a>.</p>
 </li>
 <li>
 <p><strong>Oct 24</strong>: New 
@@ -960,6 +967,119 @@ the
     <p>* denotes equal contribution</p>
 
 
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    
+      <b>What Makes a Reward Model a Good Teacher? An Optimization Perspective</b>
+    
+    
+    
+
+    <div class="stream-meta article-metadata" style="margin-bottom: 2px; margin-top: 2px">
+      
+
+      
+      <div>
+        
+
+  
+  <span>Noam Razin</span>, <span>Zixuan Wang</span>, <span>Hubert Strauss</span>, <span>Stanley Wei</span>, <span>Jason D. Lee</span>, <span>Sanjeev Arora</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="article-metadata" style="margin-bottom: 2px">
+      <em>arXiv:TBD, 2025</em>
+    </div>
+    
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2503.15477" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/what_makes_good_rm/razin2025what.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/princeton-pli/what-makes-good-rm" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <img src="/publication/what_makes_good_rm/featured_hu2e6f2ee3ee56526d62da76572fb9928a_746153_300x0_resize_lanczos_2.png" alt="">
+    
+  </div>
+</div>
+
+      
     
       
         
