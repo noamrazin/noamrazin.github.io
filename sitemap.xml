@@ -64,27 +64,27 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/direct-preference-learning/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/dpo/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/likelihood-displacement/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/likelihood_displacement/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -372,6 +372,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/ex_vs_im_rm/</loc>
   </url>
   
 </urlset>

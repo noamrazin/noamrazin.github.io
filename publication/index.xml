@@ -23,7 +23,7 @@
     <item>
       <title>Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization</title>
       <link>/publication/likelihood_displacement/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/publication/likelihood_displacement/</guid>
       <description></description>
     </item>
@@ -129,6 +129,14 @@
       <link>/publication/dse/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/dse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is Your Language Model a Poor Implicit Reward Model?</title>
+      <link>/publication/ex_vs_im_rm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/ex_vs_im_rm/</guid>
       <description></description>
     </item>
     
