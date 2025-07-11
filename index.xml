@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Noam Razin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Noam Razin</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Why is Your Language Model a Poor Implicit Reward Model?</title>
+      <link>/publication/ex_vs_im_rm/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ex_vs_im_rm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Makes a Reward Model a Good Teacher? An Optimization Perspective</title>
@@ -129,14 +137,6 @@
       <link>/publication/dse/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/dse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Why is Your Language Model a Poor Implicit Reward Model?</title>
-      <link>/publication/ex_vs_im_rm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/ex_vs_im_rm/</guid>
       <description></description>
     </item>
     
