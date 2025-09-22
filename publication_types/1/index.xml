@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>The Implicit Bias of Structured State Space Models Can Be Poisoned With Clean Labels</title>
+      <link>/publication/imp_bias_ssm/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/imp_bias_ssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States</title>
       <link>/publication/imp_bias_lqr/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
