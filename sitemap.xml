@@ -4,36 +4,56 @@
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/catastrophic-forgetting/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/language-models/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/out-of-distribution-generalization/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/reinforcement-learning/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sft_vs_rl_forgetting/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/supervised-finetuning/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/out-of-distribution-generalization/</loc>
     <lastmod>2025-07-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +64,6 @@
   
   <url>
     <loc>/tags/reward-models/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2025-07-10T00:00:00+00:00</lastmod>
   </url>
   
