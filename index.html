@@ -857,7 +857,7 @@ received the
 <a href="https://arxiv.org/abs/2408.13767" target="_blank" rel="noopener">lecture notes</a> on the theory (and surprising practical applications) of linear neural networks.</p>
 </li>
 </ul>
-<details class="news-toggle">
+<details class="news-toggle" id="news-toggle">
   <summary class="news-toggle__summary">
     <span class="toggle-text"></span>
   </summary>
@@ -921,6 +921,18 @@ received the
 </ul>
 <!-- - **Nov 19**: [Scalable Attentive Sentence-Pair Modeling via Distilled Sentence Embedding](https://arxiv.org/abs/1908.05161) accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/). -->
 </details>
+<script>
+  (function () {
+    var details = document.getElementById("news-toggle");
+    if (!details) return;
+
+    details.addEventListener("toggle", function () {
+      if (!details.open) {
+        details.scrollIntoView({ block: "center" });
+      }
+    });
+  })();
+</script>
 
     </div>
   
